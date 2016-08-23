@@ -7,10 +7,10 @@ Download [here](https://www.python.org/) and install on your computer.
 Search your Programs for *cmd* or find *cmd.exe* in the *C:\Windows\System32* folder. 
 
 ##3. Change your environment variables to run Python in the command prompt. 
-- Locate *python.exe*. Copy its path by clicking on "Properties", then copying the path in "Location". 
-- Access the environment variables by right-clicking on "Computer", then selecting "Properties", 
+- Locate *python.exe*. Copy its path by clicking on "Properties", then copying the path provided in the "Location" box. 
+- Access your system's environment variables by right-clicking on "Computer", then selecting "Properties", 
 "Advanced system settings" and "Environment Variables". 
-- Edit *Path* by adding the path to *python.exe* which you copied earlier. Separate it from other entries with a *;*. 
+- Edit the *Path* variable by adding the path to *python.exe* which you copied earlier. Separate it from other entries with a *;*. 
 This video walks you through the process. 
 
 ##4. Install the *pandas* and *Beautiful Soup* packages. 
