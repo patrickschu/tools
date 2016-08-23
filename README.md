@@ -1,5 +1,5 @@
 # Texas German Dialect Tools
-Tools for the [Texas German Dialect Project](www.tgdp.org). 
+Tools for the [Texas German Dialect Project](http://tgdp.org/). 
 
 Includes the [Downloader](https://github.com/tgdp/tgdp/blob/master/summer16/downloader/README.MD), the [Corpusbuilder](https://github.com/tgdp/tgdp/blob/master/summer16/corpusbuilder/README.MD) and various [Gilbert tools](https://github.com/tgdp/tgdp/blob/master/summer16/gilberttools/README.md). 
 
