@@ -17,10 +17,13 @@ This video walks you through the process.
 - Make sure you have completed step 3. 
 - Open your command prompt. 
 - type
-    python -m pip install pandas
+`python -m pip install pandas`
+
 This installs [pandas](http://pandas.pydata.org/pandas-docs/stable/). 
+
 then type
-    python -m pip install beautifulsoup4
+`python -m pip install beautifulsoup4`
+
 This installs [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/). 
 This video walks you through the process. 
 
