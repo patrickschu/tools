@@ -19,12 +19,13 @@ This video walks you through the process.
 - type
 `python -m pip install pandas`
 
-This installs [pandas](http://pandas.pydata.org/pandas-docs/stable/). 
+  This installs [pandas](http://pandas.pydata.org/pandas-docs/stable/). 
 
-then type
+- then type
 `python -m pip install beautifulsoup4`
 
-This installs [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/). 
-This video walks you through the process. 
+  This installs [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/). 
+  
+  This video walks you through the process. 
 
 ##5. You're good to go. 
