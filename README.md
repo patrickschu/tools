@@ -17,7 +17,7 @@ I have a lot of TGDP recordings and want to extract all recordings from a specif
 
 I want to extract all recordings from male speakers, speakers born before 1923, or everyone who is not from a specific location! The [Corpusbuilder](https://github.com/tgdp/tgdp/blob/master/summer16/corpusbuilder/README.MD) can do all of that. 
 
-I have a lot of wordlist recordings. I want to extract all items that contain a specific sound! Use the [Gilbert finder](https://github.com/tgdp/tgdp/blob/master/summer16/gilberttools/README.md). 
+I have a lot of wordlist recordings. I want to extract all items that contain the sound /ʁ/! Use the [Gilbert finder](https://github.com/tgdp/tgdp/blob/master/summer16/gilberttools/README.md). 
 
 I have a lot of wordlist recordings. I want to extract all items that contain a specific word and are less than two words long! Use the [Gilbert finder](https://github.com/tgdp/tgdp/blob/master/summer16/gilberttools/README.md). 
 
