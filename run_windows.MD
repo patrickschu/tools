@@ -34,5 +34,6 @@ Here is where the documentation specifies this:
     directory -- an existing folder, this is where the files will be downloaded to.
 
 You will find a similar description of what input each tool expects in the tool's documentation. 
+On each documentation page, you will also find a video that walks you through the process. 
 
 ##6. That's it.  
