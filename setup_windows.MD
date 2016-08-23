@@ -1,4 +1,4 @@
-#Running TGDP scripts on Windows
+#Setting up your Windows computer
 
 ##1. Install Python for Windows.
 Download [here](https://www.python.org/) and install on your computer. 
