@@ -8,7 +8,7 @@ This will start Python. Type `exit()` to quit. To find out which version of Pyth
 
 
 ##3. Install the *pandas* and *Beautiful Soup* packages. 
-- Make sure you have completed step 3. 
+- Make sure you have completed step 2. 
 - Open your command prompt. 
 - type
 `easy_install --user pandas`
