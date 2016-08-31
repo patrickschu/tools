@@ -1,7 +1,6 @@
-#Setting up your Windows computer
+#Setting up your Mac
 
 ##1. Python is already installed on your computer.
-T
 
 ##2. Make sure you know how to run Python in the Terminal. 
 Open the Terminal (search your *Applications* folder for "Terminal.app") and type `python`. 
@@ -23,4 +22,4 @@ This will start Python. Type `exit()` to quit. To find out which version of Pyth
   
   This video walks you through the process. 
 
-##5. You're good to go. 
+##4. You're good to go. 
